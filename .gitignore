@@ -1,0 +1,14 @@
+*.diff
+*.bak
+*.apk
+*.ap_
+*.pyc
+
+*.dex
+
+*.class
+
+.svn
+*.zip
+simulator/
+dogfight/frameworks/runtime-src/
